@@ -37,6 +37,7 @@ A simple way to turn your LLM API key into an .exe file your friends and family 
 - Designed for Windows 8 and higher
 - Uses Streamlit for the user interface
 - Currently configured for OpenAI's API (can be modified for other LLMs)
+- Running in a new environment with only the required libraries will yield a smaller exe file
 
 ## ⚠️ Important Notes
 
