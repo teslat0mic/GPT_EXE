@@ -48,5 +48,3 @@ To modify the LLM backend or adjust other settings, edit the `AI_Chat.py` file b
 
 Contributions, issues, and feature requests are welcome!
 ---
-
-Made with ❤️ by [Your Name/Organization]
