@@ -1,7 +1,7 @@
 # GPT_EXE 🤖💬
 
 <p align="center">
-  <img src="icon.png" alt="GPT_EXE Logo" width="200"/>
+  <img src="logo.png" alt="GPT_EXE Logo" width="200"/>
 </p>
 
 A simple way to turn your LLM API key into an .exe file your friends and family can install.
